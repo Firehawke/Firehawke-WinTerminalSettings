@@ -12,7 +12,7 @@ to use in the background or remove the background lines entirely.
 
 # How do I use this?
 
-Clone the repository or download the `settings.js` on file. Open up your text
+Clone the repository or download the `settings.json` on file. Open up your text
 editor of choice, then copy the parts you want to the `settings.json` file in
 your Windows Terminal config folder. You can get to that by going into
 Settings (Ctrl-Comma); it'll open up your settings in a text editor.
